@@ -1,0 +1,74 @@
+{
+   "type": "pages",
+   "headline": "Sofa Launcher",
+   "pages": [
+      {
+         "items": [
+            {
+               "icon": "settings",
+               "type": "default",
+               "layout": "9,0,2,2",
+               "color": "msx-glass",
+               "title": "Настройки"
+            },
+            {
+               "icon": "apps",
+               "type": "default",
+               "layout": "9,2,2,2",
+               "color": "msx-glass",
+               "title": "Приложения"
+            },
+            {
+               "icon": "article",
+               "type": "default",
+               "layout": "0,0,3,3",
+               "color": "msx-glass",
+               "title": "Новости"
+            },
+            {
+               "icon": "info",
+               "type": "default",
+               "layout": "0,3,3,3",
+               "color": "msx-glass",
+               "title": "Информация"
+            },
+            {
+               "icon": "headphones",
+               "type": "default",
+               "layout": "3,0,3,3",
+               "color": "msx-glass",
+               "title": "Музыка"
+            },
+            {
+               "icon": "slideshow",
+               "type": "default",
+               "layout": "3,3,3,3",
+               "color": "msx-glass",
+               "title": "Видео"
+            },
+            {
+               "icon": "image",
+               "type": "default",
+               "layout": "6,0,3,3",
+               "color": "msx-glass",
+               "title": "Фотографии"
+            },
+            {
+               "icon": "link",
+               "type": "default",
+               "layout": "6,3,3,3",
+               "color": "msx-glass",
+               "title": "Ссылки на соц. сети"
+            },
+            {
+               "icon": "description",
+               "type": "default",
+               "layout": "9,4,1,1",
+               "color": "msx-glass",
+               "title": "",
+               "action": "info: Сервер пустой./Server are empty."
+            }
+         ]
+      }
+   ]
+}
